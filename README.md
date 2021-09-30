@@ -1,4 +1,4 @@
-# ejercicio1_joseignaciozurbano
+
 # _Soy José Ignacio Zurbano_
 ## **Esto es entornos de desarrollo**
 Vivo en  _Barañain_ y  tengo **19 años**. Me gusta jugar al futbol. Soy del Barca.
